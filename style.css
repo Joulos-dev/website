@@ -26,6 +26,9 @@ a {
     display:flex
 }
 
+.logo-droite{
+left:50px;
+}
 
 .conteneur{
     display: grid;
